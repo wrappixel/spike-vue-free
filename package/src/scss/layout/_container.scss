@@ -1,0 +1,39 @@
+html {
+    overflow-y: auto;
+}
+
+.v-application__wrap {
+    background-color: rgba(var(--v-theme-background));
+}
+
+.v-main {
+    min-height: 100vh;
+    padding-left:calc(var(--v-layout-left) + 20px) !important;
+}
+
+.v-application {
+    background: transparent;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+@media screen and (min-width:1300px) {
+    .maxWidth {
+        max-width: 1300px;
+        margin: 0 auto;
+    }
+}
+.fixed-width {
+    max-width: 1300px;
+}
+
+@media screen and (max-width:1024px) {
+    .v-toolbar__content {
+        justify-content: space-between;
+    }
+
+    .v-toolbar__content>.v-btn:last-child {
+        margin-inline-end: 0px !important;
+    }
+}

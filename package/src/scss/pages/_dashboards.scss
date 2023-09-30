@@ -1,0 +1,108 @@
+.month-table {
+
+    td,
+    th {
+        border-bottom: 0 !important;
+    }
+
+    &.custom-px-0 {
+        thead {
+            tr {
+
+                th:first-child {
+                    padding-left: 0 !important;
+                }
+
+                th:last-child {
+                    padding-right: 0 !important;
+                }
+            }
+        }
+
+        tr.month-item {
+            td:first-child {
+                padding-left: 0 !important;
+            }
+
+            td:last-child {
+                padding-right: 0 !important;
+            }
+        }
+    }
+
+    tr.month-item {
+        td {
+            padding-top: 12px !important;
+            padding-bottom: 12px !important;
+        }
+
+        &:hover {
+            background: transparent !important;
+        }
+    }
+}
+
+.recent-transaction {
+    .line {
+        width: 1px;
+        height: 35px;
+    }
+}
+
+
+.chip-label {
+    width: 80px;
+    justify-content: center;
+}
+
+.border-left-indigo {
+    border-left: 5px solid rgb(var(--v-theme-indigo)) !important;
+}
+
+.border-left-success {
+    border-left: 5px solid rgb(var(--v-theme-success)) !important;
+}
+
+.border-left-error {
+    border-left: 5px solid rgb(var(--v-theme-error)) !important;
+}
+
+.border-left-primary {
+    border-left: 5px solid rgb(var(--v-theme-primary)) !important;
+}
+
+.border-left-info {
+    border-left: 5px solid rgb(var(--v-theme-info)) !important;
+}
+
+.border-left-secondary {
+    border-left: 5px solid rgb(var(--v-theme-secondary)) !important;
+}
+
+.upcomming-schedule {
+    .v-tabs {
+        --v-tabs-height: 42px !important;
+
+        .v-slide-group-item--active {
+            background-color: rgb(var(--v-theme-primary));
+        }
+
+        .v-tab--selected .v-tab__slider {
+            opacity: 0;
+        }
+    }
+
+    &.tabs_group {
+        .v-slide-group__content {
+            justify-content: space-between;
+        }
+    }
+
+    .v-tab.v-tab {
+        --v-btn-height: 42px;
+        min-width: 75px;
+    }
+    .v-tabs--grow .v-tab {
+        flex: none;
+    }
+}
