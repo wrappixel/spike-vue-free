@@ -1,6 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap");
 
-$font-nunito: "Nunito Sans", sans-serif;
+$font-jakarta: "Plus Jakarta Sans", sans-serif;
 
 // Custom Variables
 /*Theme Colors*/
@@ -17,6 +17,7 @@ $skin4: #6659f7;
 $skin5: #233242;
 $skin6: #fff;
 /*Topbar Colors*/
+
 
 $topbar: $theme-light;
 $topbar-height: 64px;
@@ -99,7 +100,7 @@ $gray-700: #4f5467 !default;
 $gray-800: #414755 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
-$blue: #0250bf !default;
+$blue: #0085db !default;
 $indigo: #6610f2 !default;
 $purple: #8b5edd !default;
 $pink: #e83e8c !default;
@@ -176,7 +177,7 @@ $grid-gutter-width: 20px !default;
 $font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
 $font-size-lg: ($font-size-base * 1) !default;
 $font-size-sm: ($font-size-base * 0.875) !default;
-$font-family-sans-serif: "Nunito Sans", sans-serif !default;
+$font-family-sans-serif: "Plus Jakarta Sans", sans-serif !default;
 $font-weight-light: 300 !default;
 $font-weight-normal: 400 !default;
 $font-weight-medium: 500 !default;

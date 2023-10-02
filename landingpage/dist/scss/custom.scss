@@ -55,7 +55,7 @@ a{
 
 //matrix-lp
 .header-background{
-    font-family: $font-nunito;
+    font-family: $font-jakarta;
     background-image: url(../../assets/images/header-bg.jpg);
     background-size: cover;
 }
@@ -87,20 +87,20 @@ a{
     }
 }
 .feature-title{
-     font-family: $font-nunito;
+     font-family: $font-jakarta;
     color: $dark;
     font-weight: 300;
     text-align: center
 }
 
 .feature-subtitle{
-    font-family: $font-nunito;
+    font-family: $font-jakarta;
     color: #666f7e;
     font-weight: 300;
     text-align: center
 }
 .feature1{
-    font-family: $font-nunito;
+    font-family: $font-jakarta;
     margin: 66px 0 30px;
     .card{
         border: 1px solid $gray-300 !important;
@@ -117,7 +117,7 @@ a{
 }
 
 .testimonial {
-    font-family: $font-nunito;
+    font-family: $font-jakarta;
     font-weight: 300;
     position: relative;
     .underline,
