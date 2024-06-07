@@ -1,10 +1,10 @@
 
-# <a href="https://flexy-vuejs-free.netlify.app/dashboard">Flexy Vuetify Free</a>
-Flexy VueJs Admin Dashboard
+# <a href="https://spike-vue-free.netlify.app/">Spike Vuetify Free</a>
+Spike VueJs Admin Dashboard
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/templates/flexy-vuejs-admin-free/">
-  <img src="https://www.wrappixel.com/wp-content/uploads/2022/07/flexy-vuejs-free.jpg" />
+<a target="_blank" href="https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg" />
 </a>
 
 
@@ -13,25 +13,25 @@ Flexy VueJs Admin Dashboard
 <table>
 <thead>
 <tr>
-<th>Flexy Free VueJs Admin Version</th>
-<th>Flexy VueJs Admin Version</th>
+<th>Spike Free VueJs Admin Version</th>
+<th>Spike VueJs Admin Version</th>
 </tr>
 </thead>
 <tbody>
 <tr>
   <td>
-    <a href="https://flexy-vuejs-free.netlify.app/dashboard">Live Preview</a>
+    <a href="https://spike-vue-free.netlify.app/">Live Preview</a>
   </td>
   <td>
-  <a href="https://flexy-vue3-main-admin.vercel.app/dashboards/analytical">Live Preview</a>
+  <a href="https://spike-vue-main.netlify.app/dashboard1">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-      <a href="https://www.wrappixel.com/templates/flexy-vuejs-admin-free/">Download Now</a>
+      <a href="https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/">Download Now</a>
   </td>
   <td>
-    <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=33">Purchase Now</a>
+    <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=33">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ Flexy VueJs Admin Dashboard
   1 Basic Dashboard
   </td>
   <td>
-  3+ Stunning Dashboards
+  2+ Stunning Dashboards
   </td>
 </tr>
 <tr>
@@ -71,12 +71,12 @@ Flexy VueJs Admin Dashboard
   5+ Pages Template
   </td>
   <td>
-  50+ Page Templates
+  65+ Page Templates
   </td>
 </tr>
 <tr>
   <td>
-  4+ UI Components
+  3+ UI Components
   </td>
   <td>
   45+ UI Components
@@ -111,7 +111,7 @@ Flexy VueJs Admin Dashboard
   -
   </td>
   <td>
-  4+ Unique Demos
+  5+ Unique Demos
   </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ Flexy VueJs Admin Dashboard
   -
   </td>
   <td>
-  6+ Ready to Use App
+  12+ Ready to Use App
   </td>
 </tr>
 <tr>
@@ -135,12 +135,12 @@ Flexy VueJs Admin Dashboard
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=33">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="">
+<a target="_blank" href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=33">
+  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg" alt="">
 </a>
 <p>
-  Checkout our premium version of Flexy Vue3 + Vuetify Dashboard Template for lots more features and ready to use page templates.<br>
-  <a href="https://flexy-vue3-main-admin.vercel.app/dashboards/analytical">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=33">Download</a>
+  Checkout our premium version of Spike Vue3 + Vuetify Dashboard Template for lots more features and ready to use page templates.<br>
+  <a href="https://spike-vue-main.netlify.app/dashboard1">Check Live Preview</a> | <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=33">Download</a>
 </p>
 
 <!-- Versions of Template -->
@@ -150,30 +150,30 @@ Flexy VueJs Admin Dashboard
 <tr>
 <th>Vue</th>
 <th>Angular</th>
-<th>React</th>
+<th>Next Js</th>
 <th>Bootstrap</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>
-  <a href="https://www.wrappixel.com/templates/flexy-vuetify-dashboard/?ref=33" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-vuetify-vuejs-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=33" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/flexy-material-angular-admin/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-angular-material-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-angular-material-admin-dashboard-ws.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-react-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-nextjs-admin-dashboard-prev-img.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
-  <a href="https://www.wrappixel.com/templates/flexy-bootstrap-admin-template/?ref=33" rel="nofollow" width="150px">
-    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/flexy-bootstrap-admin-wpn.jpg" alt="" style="max-width:150px;">
+  <a href="https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/?ref=33" rel="nofollow" width="150px">
+    <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-bootstrap-admin-dashboard-prev-img.jpg" alt="" style="max-width:150px;">
   </a>
 </td>
 </td>
