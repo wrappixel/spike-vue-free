@@ -186,29 +186,49 @@ Spike VueJs Admin Dashboard
 
 
 
-<!-- Useful Links of Template -->
-# Useful Links
-- <p><a href="https://www.wrappixel.com/">Admin Theme</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro/">Bootstrap Themes</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-lite/">Free Bootstrap Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-react-redux-admin/">React Bootstrap Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/materialpro-vuetify-admin/">Vuejs Templates</a> from Wrappixel</p>
+## Useful Links
 
+-   [Well Coded Admin Templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/?utm_source=github)
+    
+-   [Best Bootstrap Templates](https://www.wrappixel.com/templates/category/bootstrap-templates/?utm_source=github)  
+    
+-   [React Admin Templates](https://www.wrappixel.com/templates/category/react-dashboard/?utm_source=github)  
+    
+-   [React Bootstrap Templates](https://www.wrappixel.com/templates/category/react-bootstrap-templates/?utm_source=github) 
+- [Angular Admin Dashboards](https://www.wrappixel.com/templates/category/angular-admin-dashboard-templates/?utm_source=github)  
+    
+-   [Vuejs Admin Dashboards Templates](https://www.wrappixel.com/templates/category/vue-dashboard/?utm_source=github)
 
-<!-- Licensing of Template -->
-# Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
+    
 
+### Licensing 
+Copyright 2025 Licensed under MIT -  [https://wrappixel.com/license/](https://www.wrappixel.com/license/)
+    
 
-<!-- Social Media of Adminmart -->
-# Social Media 👭🏼
-- <p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
-- <p>Linkedin: <a href="https://www.linkedin.com/company/wrappixel/">https://www.linkedin.com/company/wrappixel/</a></p>
-- <p>Github: <a href="https://github.com/wrappixel">https://github.com/wrappixel</a></p>
-- <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
-- <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
-- <p>Discord: <a href="https://discord.com/invite/eMzE8F6Wqs">https://discord.com/invite/eMzE8F6Wqs</a></p>
-- <p>Youtube: <a href="https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ">https://www.youtube.com/channel/UCdFDlrhIchtxF8EmxejUPGQ</a></p>
+##  Vue Admin Templates Integration🔗with Popular Frameworks🖥️
 
+If you’re  [Searching for Admin Templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/?utm_source=github) built with a specific framework, here are some options : [Bootstrap Admin Templates](https://www.wrappixel.com/templates/category/bootstrap-admin-dashboard-template/?utm_source=github), [Angular Material Themes](https://www.wrappixel.com/templates/category/angular-material-themes/?utm_source=github), [React Admin Dashboards](https://www.wrappixel.com/templates/category/react-dashboard/?utm_source=github), [NextJS Admin Dashboards](https://www.wrappixel.com/templates/category/nextjs-dashboard/?utm_source=github), [Vue TemplateAdmin dashboards](https://www.wrappixel.com/templates/category/vuejs-templates-dashboard/?utm_source=github), [Tailwind CSS Admin Dashboards](https://www.wrappixel.com/templates/category/tailwind-dashboard/?utm_source=github), [Vuetify Templates](https://www.wrappixel.com/templates/category/vuetify-templates/?utm_source=github), [Nuxt Templates](https://www.wrappixel.com/templates/category/nuxt-templates/?utm_source=github), [MUI Templates](https://www.wrappixel.com/templates/category/mui-templates/?utm_source=github).
+
+## 🤩Love it 👇 We want your feedback
+
+### Let us know your thoughts on  [Our Admin Templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/)
+
+Visit  Wrappixel  to  [Download Free Admin Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
+
+[Download Admin Panel Dashboards](https://www.wrappixel.com/templates/category/admin-dashboard-templates/)  from Other Marketplaces 👉  [Themeforest](https://themeforest.net/user/wrappixel)  |  [WrapBootstrap](https://wrapbootstrap.com/user/wrappixel)  |  [CreativeMarket](https://creativemarket.com/wrappixel)  |  [Craftwork.Design](https://craftwork.design/author/wrappixel/)  |  [UIBundle](https://uibundle.com/authors/wrappixel)  |  [Gumroad](https://wrappixel.gumroad.com/)  |  [Codester](https://codester.com/wrappixel)  |  [Codegrape](https://codegrape.com/user/Wrappixel)  |
+
+### Stay tuned for Vue Templates on Social Media👇
+
+[Github](https://github.com/wrappixel)  |  [Twitter](https://twitter.com/wrappixel)  |  [LinkedIn](https://linkedin.com/company/wrappixel)  |  [Facebook](https://facebook.com/wrappixel)  |  [Pinterest](https://pinterest.com/wrappixel_templates/)  |  [Peerlist](https://peerlist.io/wrappixel)  |  [Mastadon](https://mastodon.social/@wrappixel)  |  [BlueSky](https://bsky.app/profile/wrappixel.bsky.social)  |  [Xing](https://www.xing.com/pages/wrappixel)  |  [Discord](https://discord.com/invite/eMzE8F6Wqs) | [Medium](https://medium.com/wrappixel) |  [Follow us on YouTube](https://www.youtube.com/@WrapPixel)
+
+#### Follow us for [Admin Panel Designs](https://www.wrappixel.com/templates/category/admin-dashboard-templates/)
+[Dribbble](https://dribbble.com/wrappixel) | [Behance](https://www.behance.net/wrappixel-templates) | [DesignWhiz](https://www.mydesignwhiz.com/user-profile/f03bc809-564f-4fd0-bfd5-f5c539b02f1a) | [Design Inspiration](https://www.designspiration.com/wrappixel/)
+
+## Your 🤝 feedback helps us create free products for developers like you.
+
+### Free Goodies for Developer's 
+- [Download Free Vue Templates](https://www.wrappixel.com/templates/category/vuejs-templates/)
+- [Download Free Bootstrap Templates](https://www.wrappixel.com/templates/category/free-bootstrap-templates/?utm_source=github)
+- [Download Free Admin Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
+- [Download Free MUI Templates](https://www.wrappixel.com/templates/category/mui-templates/?utm_source=github)
 
