@@ -136,7 +136,7 @@ Spike VueJs Admin Dashboard
 # Upgrade to Premium version
 
 <a target="_blank" href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=33">
-  <img src="https://www.wrappixel.com/wp-content/uploads/edd/2023/09/spike-vuejs-admin-dashboard-prev-img.jpg" alt="">
+  <img src="https://craftwork.design/wp-content/uploads/edd/2024/10/Spike-Vue-craftwork-1600x1200-1.png" alt="Spike Vuejs Admin Template">
 </a>
 <p>
   Checkout our premium version of Spike Vue3 + Vuetify Dashboard Template for lots more features and ready to use page templates.<br>
