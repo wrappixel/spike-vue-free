@@ -173,13 +173,9 @@ Spike VueJs Admin Dashboard
 </table>
 
 
-
-
-
-
 ## 🤩Love it 👇 We want your feedback
 
-Let us know your thoughts on  [Our Admin Templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/) Visit  Wrappixel  to  [Download Free Admin Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
+Let us know your thoughts on  [Our Admin Templates](https://www.wrappixel.com/templates/category/admin-dashboard-templates/) Visit  Wrappixel  to  [Download Free Admin Panels](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: left;">
 <a href="https://www.wrappixel.com/templates/category/bootstrap-templates/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="Bootstrap 5 templates" style="margin-right: 8px"> </a> <a href="https://www.wrappixel.com/templates/category/angular-templates/"><img src="https://skillicons.dev/icons?i=angular" height="32" alt="Angular" style="margin-right: 8px">
@@ -197,17 +193,16 @@ Let us know your thoughts on  [Our Admin Templates](https://www.wrappixel.com/te
 <a target="_blank" href="https://www.dribbble.com/wrappixel" style="display: inline-block;"><img src="https://img.shields.io/badge/dribbble-logo?style=for-the-badge&logo=dribbble&logoColor=white&color=%23ea64d9" alt="dribbble" /></a> <a target="_blank" href="https://www.behance.net/wrappixel" style="display: inline-block;"><img src="https://img.shields.io/badge/behance-logo?style=for-the-badge&logo=behance&logoColor=white&color=%230057ff" alt="behance" /></a>
 
 #### Useful Links From Wrappixel
-- <a href="https://www.wrappixel.com/templates/category/vuetify-templates/">Vuetify Templates</a> from Wrappixel
-- <a href="https://www.wrappixel.com/templates/category/nuxt-templates/">Nuxt Templates</a> from Wrappixel
-- <a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/">Admin Templates</a> from Wrappixel
-
+- <a href="https://www.wrappixel.com/templates/category/vuetify-templates/?utm_source=github">Vuetify Templates</a> from Wrappixel
+- <a href="https://www.wrappixel.com/templates/category/nuxt-templates/?utm_source=github">Nuxt Templates</a> from Wrappixel
+- <a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/?utm_source=github">Admin Templates</a> from Wrappixel
 
 
 ## Your 🤝 feedback helps us create free products for developers like you.
 
 ### Free Goodies for Developer's 
-- [Download Free Vue Templates](https://www.wrappixel.com/templates/category/vuejs-templates/)
+- [Download Free Vue Templates](https://www.wrappixel.com/templates/category/vuejs-templates/?utm_source=github)
 - [Download Free Bootstrap Templates](https://www.wrappixel.com/templates/category/free-bootstrap-templates/?utm_source=github)
-- [Download Free Admin Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/)
+- [Download Free Admin Templates](https://www.wrappixel.com/templates/category/free-admin-panel-templates/?utm_source=github)
 - [Download Free MUI Templates](https://www.wrappixel.com/templates/category/mui-templates/?utm_source=github)
 
