@@ -1,14 +1,13 @@
-/*This is for the logo*/
 .leftSidebar {
-    border-radius: 18px;
-    height: calc((100% - 40px)) !important;
+    border-radius: 0;
+    height: calc(100% - 50px);
     overflow: hidden;
+    top: 72px !important;
 
     @media screen and (max-width:1279px) {
         height: 100% !important;
         border-radius: 0;
     }
-
 
     .mini-icon {
         display: none;
@@ -29,6 +28,21 @@
             overflow: hidden;
         }
     }
+
+    .bg-hover-primary {
+        &:hover {
+
+            .iconify,
+            .v-icon {
+                color: rgb(var(--v-theme-primary));
+            }
+
+            .v-list-item-title {
+                color: rgb(var(--v-theme-primary));
+            }
+
+        }
+    }
 }
 
 .verticalLayout {
@@ -38,18 +52,19 @@
         }
     }
 }
-.v-navigation-drawer__content{
+
+.v-navigation-drawer__content {
     overflow-y: hidden !important;
 }
 
 /*This is for the Vertical sidebar*/
 .scrollnavbar {
-    height: calc(100vh - 130px);
+    height: calc(100vh - 170px);
 
     .userbottom {
         bottom: 0px;
         width: 100%;
-        position:fixed;
+        position: fixed;
         z-index: 2;
     }
 
@@ -145,45 +160,18 @@
             padding-inline-end: 12px;
         }
 
-        .sublinks {
-            .v-list-item {
-                opacity: 0.7;
-
-                .sublink-dot {
-                    height: 6px;
-                    width: 6px;
-                    border-radius: 100%;
-                    background-color:  rgb(var(--v-theme-textSecondary));
-                }
-
-                &:hover {
-                    opacity: 1;
-                }
-
-                &.v-list-item--active {
-                    opacity: 1;
-                
-                    .v-list-item-title {
-                        font-weight: 600;
-                    }
-                }
-            }
-        }
-
         .z-index-2 {
             z-index: 2;
         }
 
-        
         .bg-hover-primary::before {
             background-color: rgba(var(--v-theme-primary), 12%);
         }
-    
+
         .bgicn-hover-primary {
             background-color: rgba(var(--v-theme-primary), 12%);
         }
 
-       
         .bgicn-hover-primary {
             &::before {
                 position: absolute;
@@ -230,6 +218,7 @@
                         width: calc(100% + 16px);
                         border-radius: 0 24px 24px 0;
                     }
+
                     .bgicn-hover-primary {
                         background-color: rgba(var(--v-theme-primary), 0%);
                     }
@@ -244,10 +233,10 @@
                         border-radius: 0 24px 24px 0;
                     }
 
-                    .texthover-primary{
+                    .texthover-primary {
                         color: rgb(var(--v-theme-primary));
                     }
-                    
+
                     .bgicn-hover-primary {
                         background-color: rgba(var(--v-theme-primary), 0%);
                     }
@@ -255,41 +244,36 @@
             }
         }
 
-    }
-}
+        .sublinks {
+            .v-list-item {
 
 
-.v-navigation-drawer--rail {
+                .sublink-dot {
+                    height: 6px;
+                    width: 6px;
+                    border-radius: 100%;
+                    background-color: rgb(var(--v-theme-textSecondary));
+                    opacity: 0.7;
+                }
+                .v-list-item-title {
+                    opacity: 0.7;
+                }
 
-    .scrollnavbar .v-list .v-list-group__items,
-    .hide-menu {
-        opacity: 0.8;
-    }
+                &:hover {
+                    .sublink-dot,.v-list-item-title {
+                        opacity: 1;
+                    }
+                }
 
-    .leftPadding {
-        margin-left: 0px;
-    }
-}
-
-// scrollbar 
-.ps__rail-y {
-    z-index: 9;
-}
-
-.v-menu {
-    &.mobile_popup {
-        .v-overlay__content {
-            width: 100%;
-
-            @media screen and (min-width:767px) {
-                max-width: 96% !important;
+              
             }
-
-            max-width: 92% !important;
         }
 
-        .v-btn.search {
-            color: rgba(var(--v-theme-textSecondary), 0.8) !important;
-        }
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .leftSidebar {
+        top: 0 !important;
     }
 }

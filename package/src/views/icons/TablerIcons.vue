@@ -1,21 +1,4 @@
-<script setup lang="ts">
-import { ref } from 'vue';
-import UiParentCard from '@/components/shared/UiParentCard.vue';
-// theme breadcrumb
-const page = ref({ title: 'Tabler Icons' });
-const breadcrumbs = ref([
-    {
-        text: 'Home',
-        disabled: false,
-        href: '#'
-    },
-    {
-        text: 'Tabler icons',
-        disabled: true,
-        href: '#'
-    }
-]);
-</script>
+
 <template>
     <v-row>
         <v-col cols="12" md="12">

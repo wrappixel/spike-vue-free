@@ -8,7 +8,8 @@ html {
 
 .v-main {
     min-height: 100vh;
-    padding-left:calc(var(--v-layout-left) + 20px) !important;
+    padding-top: 10px;
+    padding-left:calc(var(--v-layout-left) + 0px) !important;
 }
 
 .v-application {
