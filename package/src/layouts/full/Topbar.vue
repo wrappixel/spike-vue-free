@@ -4,7 +4,7 @@ import { Icon } from '@iconify/vue';
 import icon1 from '@/assets/images/technology/vue-cat-icon.svg';
 import icon2 from '@/assets/images/technology/angular-cat-icon.svg';
 import icon3 from '@/assets/images/technology/next-cat-icon.svg';
-import icon4 from '@/assets/images/technology/react-cat-icon.svg';
+import icon4 from '@/assets/images/technology/tailwind-icon.svg';
 import icon5 from '@/assets/images/technology/nuxt-cat-icon.svg';
 import icon6 from '@/assets/images/technology/bt-cat-icon.svg';
 
