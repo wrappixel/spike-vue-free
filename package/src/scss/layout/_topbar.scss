@@ -58,6 +58,29 @@
     position: sticky;
     top: 0;
     z-index: 10;
+    background: linear-gradient(90deg, #0F0533 0%, #1B0A5C 100%);
+    .text-linear-gradient {
+        background: linear-gradient(90deg, #FFFFFF 0%, #8D70F8 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+    }
+    .border-blue{
+        border: 1px solid rgb(236, 240, 242,0.5) ;
+    }
+    .purple-btn{
+        background-color: #8D70F8;
+        &:hover{
+            background-color: #714BFF;
+        }
+    }
+    .green-btn{
+        background-color: #B3F143;
+
+        &:hover{
+            background-color: #90DE03;
+        }
+    }
 }
 .top-header{
     position: relative !important;
@@ -67,6 +90,16 @@
     .v-btn{
         &:hover{
             background-color: rgba(var(--v-theme-primary));
+        }
+    }
+}
+
+.topbar-links{
+    a{
+        text-decoration: none;
+        color: rgba(var(--v-theme-surface));
+        &:hover{
+            color: #714BFF !important;
         }
     }
 }
