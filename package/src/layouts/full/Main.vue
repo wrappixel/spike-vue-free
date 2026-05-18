@@ -35,7 +35,6 @@ const sDrawer = ref(true);
                 </template>
                 <!-- <Moreoption/> -->
             </v-list>
-           
 
             <div class="pa-4">
                 <v-sheet rounded="md" color="lightprimary" class="position-relative extrabox hide-menu mx-1 px-4 py-3">
@@ -44,7 +43,7 @@ const sDrawer = ref(true);
                             <h6 class="text-h6 text-10 mb-3">Check Pro Version</h6>
                             <v-btn
                                 target="_blank"
-                                href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376#demos"
+                                href="https://wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376#demos"
                                 color="primary"
                                 class="px-5"
                                 rounded="pill"
@@ -75,7 +74,7 @@ const sDrawer = ref(true);
                         <!-- Upgrade button -->
                         <v-btn
                             class="mr-2 bg-primary rounded-pill"
-                            href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376#demos"
+                            href="https://wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376#demos"
                             target="_blank"
                             >Check Pro Version</v-btn
                         >

@@ -1,21 +1,18 @@
 <p align="center">
-   <a href="https://www.wrappixel.com/" target="_blank">
+   <a href="https://wrappixel.com/" target="_blank">
       <img src="https://adminmart.github.io/template_api/images/brand-logo/WrapPixel-Logo.svg" alt="spike-image" width="100px" height="100px">
    </a>
 </p>
 
 <h1 align="center">
-   <a href="https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376" target="_blank" align="center">
+   <a href="https://wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376" target="_blank" align="center">
        Spike Free Vue Js Admin Template
    </a>
 </h1>
 
 <p align="center">Download most useful and comprehensive 🚀 Free Vue admin template built for developers 🛠</p>
 
-[![Spike Free VueJs Admin Template Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2023/10/spike-free-vuetify-vuejs-admin-template-wp.jpg)](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376)
-
-
-
+[![Spike Free VueJs Admin Template Demo Screenshot](https://images.wrappixel.com/templates/free/spike/spike-free-vuetify-vuejs-admin-template-wp.webp)](https://wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376)
 
 ## 👋 Introduction
 
@@ -24,8 +21,6 @@
 Whether you're developing a **SaaS dashboard**, **CRM**, or **analytics platform**, Spike helps you move faster with a modular codebase, reusable components, and a fully responsive Material Design UI.
 
 Powered by **Vue**, **Vuetify**, **TypeScript**, **SASS**, **Vue ApexCharts**, and **Vue Tabler Icons**, Spike is optimized for maintainability, extensibility, and developer efficiency — and it’s completely open-source.
-
-
 
 ### 🔑 Key Features
 
@@ -49,18 +44,17 @@ Powered by **Vue**, **Vuetify**, **TypeScript**, **SASS**, **Vue ApexCharts**, a
 
 ---
 
-
 ## 🛠️ Notable Libraries and Tools
 
-| **Library / Tool**       | **Description**                                                                 |
-|--------------------------|---------------------------------------------------------------------------------|
-| **Vue**                | A progressive JavaScript framework for building modern, reactive user interfaces. |
-| **Vuetify**              | A popular Material Design component framework for Vue, offering a rich set of responsive and accessible UI components. |
-| **Vite**                 | A next-generation front-end build tool that delivers fast development and optimized production builds. |
-| **TypeScript**           | A statically typed superset of JavaScript that improves code quality and developer productivity. |
-| **Vue ApexCharts**       | A Vue wrapper for ApexCharts, used to create interactive and customizable data visualizations. |
-| **SASS**                 | A powerful CSS preprocessor used for writing maintainable, scalable, and theme-friendly styles. |
-| **Vue Tabler Icons**     | A lightweight icon set for Vue, based on Tabler Icons, used for clean and consistent UI visuals. |
+| **Library / Tool**   | **Description**                                                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Vue**              | A progressive JavaScript framework for building modern, reactive user interfaces.                                      |
+| **Vuetify**          | A popular Material Design component framework for Vue, offering a rich set of responsive and accessible UI components. |
+| **Vite**             | A next-generation front-end build tool that delivers fast development and optimized production builds.                 |
+| **TypeScript**       | A statically typed superset of JavaScript that improves code quality and developer productivity.                       |
+| **Vue ApexCharts**   | A Vue wrapper for ApexCharts, used to create interactive and customizable data visualizations.                         |
+| **SASS**             | A powerful CSS preprocessor used for writing maintainable, scalable, and theme-friendly styles.                        |
+| **Vue Tabler Icons** | A lightweight icon set for Vue, based on Tabler Icons, used for clean and consistent UI visuals.                       |
 
 ---
 
@@ -88,7 +82,7 @@ npm install
 
 #### 3. **Start the Development Server**
 
-Once the dependencies are installed, you can start a local development server to preview the template: 
+Once the dependencies are installed, you can start a local development server to preview the template:
 
 ```bash
 npm run dev
@@ -112,37 +106,36 @@ The Pro Version of the **Spike Vue Js Admin Dashboard** comes packed with essent
   <a href="https://spike-vue-main.netlify.app/dashboard1?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Try_the_Demo-Click_Here-blue" alt="Try the Demo">
   </a>
-  <a href="https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376" target="_blank">
+  <a href="https://wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376" target="_blank">
     <img src="https://img.shields.io/badge/Download_Now-Click_Here-green" alt="Download Now">
   </a>
 </div>
 
-[![Spike Vue Js Admin Dashboard Demo Screenshot](https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-vuejs-vuetify-admin-wpn.jpg)](https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376)
+[![Spike Vue Js Admin Dashboard Demo Screenshot](https://images.wrappixel.com/templates/pro/spike/spike-vuejs-vuetify-admin-wpn.webp)](https://wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376)
 
 ---
 
 ## ⚖️ Free vs Pro Version Comparison
 
-The **Free Version** of the **Spike Vue Js Admin Dashboard** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more. 
+The **Free Version** of the **Spike Vue Js Admin Dashboard** provides a solid set of features, perfect for personal projects or small applications. However, for businesses or developers looking to unlock more advanced functionality, the **Pro Version** offers exciting features like **multiple themes**, **advanced widgets**, **real-time notifications**, **priority support**, and much more.
 
 #### Check out the comparison below to see the key differences between the two versions:
 
-| **Feature**                      | **Free Version**                       | **Pro Version**                                      |
-|-----------------------------------|----------------------------------------|-----------------------------------------------------|
-| **Demo**                          | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-vue-free.netlify.app/?ref=376)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-vue-main.netlify.app/dashboard1?ref=376)                                              |
-| **Download**                      | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376)                                | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://www.wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376)                                          |
-| **Responsive Design**             | ✅ Yes                                 | ✅ Yes                                              |
-| **Pre-designed Pages**            | ✅ Basic Pages                         | ✅ Advanced Pages (more layouts & options)           |
-| **Widgets**                       | ✅ Basic Widgets                       | ✅ Advanced Widgets (e.g., weather, charts, maps)    |
-| **Themes**                        | ✅ Default Theme                | ✅ Multiple Themes, Custom Color Skins, and Dark Modes |
-| **Support**                       | ✅ Community Support                   | ✅ Priority Support with Direct Contact             |
-| **Additional Components**         | ❌ Limited                             | ✅ Additional Components (Forms, Buttons, More UI Elements) |
-| **Advanced Data Visualization**   | ❌ Basic Charts                        | ✅ Advanced Data Visualizations (graphs, complex charts) |
-| **Multi-Language Support**        | ❌ Not available                       | ✅ Built-in support for multiple languages          |
-| **User Permissions & Roles**      | ❌ No                                  | ✅ User roles and permissions management            |
-| **Real-time Notifications**       | ❌ Not available                       | ✅ Real-time notifications for alerts & updates      |
-| **Advanced Analytics & Reporting**| ❌ Basic reports                       | ✅ Advanced analytics with custom reports and filters|
-
+| **Feature**                        | **Free Version**                                                                                                                                        | **Pro Version**                                                                                                                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Demo**                           | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-vue-free.netlify.app/?ref=376)                               | [![Try the Demo](https://img.shields.io/badge/Try_the_Demo-Click_Here-blue)](https://spike-vue-main.netlify.app/dashboard1?ref=376)                 |
+| **Download**                       | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://wrappixel.com/templates/spike-free-vuejs-admin-template/?ref=376) | [![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-green)](https://wrappixel.com/templates/spike-vuejs-admin-dashboard/?ref=376) |
+| **Responsive Design**              | ✅ Yes                                                                                                                                                  | ✅ Yes                                                                                                                                              |
+| **Pre-designed Pages**             | ✅ Basic Pages                                                                                                                                          | ✅ Advanced Pages (more layouts & options)                                                                                                          |
+| **Widgets**                        | ✅ Basic Widgets                                                                                                                                        | ✅ Advanced Widgets (e.g., weather, charts, maps)                                                                                                   |
+| **Themes**                         | ✅ Default Theme                                                                                                                                        | ✅ Multiple Themes, Custom Color Skins, and Dark Modes                                                                                              |
+| **Support**                        | ✅ Community Support                                                                                                                                    | ✅ Priority Support with Direct Contact                                                                                                             |
+| **Additional Components**          | ❌ Limited                                                                                                                                              | ✅ Additional Components (Forms, Buttons, More UI Elements)                                                                                         |
+| **Advanced Data Visualization**    | ❌ Basic Charts                                                                                                                                         | ✅ Advanced Data Visualizations (graphs, complex charts)                                                                                            |
+| **Multi-Language Support**         | ❌ Not available                                                                                                                                        | ✅ Built-in support for multiple languages                                                                                                          |
+| **User Permissions & Roles**       | ❌ No                                                                                                                                                   | ✅ User roles and permissions management                                                                                                            |
+| **Real-time Notifications**        | ❌ Not available                                                                                                                                        | ✅ Real-time notifications for alerts & updates                                                                                                     |
+| **Advanced Analytics & Reporting** | ❌ Basic reports                                                                                                                                        | ✅ Advanced analytics with custom reports and filters                                                                                               |
 
 ---
 
@@ -167,18 +160,18 @@ The **Free Version** of the **Spike Vue Js Admin Dashboard** provides a solid se
    <tbody>
       <tr>   
          <td>
-            <a href="https://www.wrappixel.com/all-access-pass/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/2025/04/all-access-pass-category-banner-1.png" alt="all-access-pass-category-admin-template" style="max-width:140px;">
+            <a href="https://wrappixel.com/all-access-pass/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/all-access/all-access-pass.webp" alt="all-access-pass-category-admin-template" style="max-width:140px;">
             </a>
          </td>
          <td>
-            <a href="https://www.wrappixel.com/templates/spike-tailwind-admin-template/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-tailwind-css-admin-wpn.jpg" alt="spike-tailwind-admin-template" style="max-width:140px;">
+            <a href="https://wrappixel.com/templates/spike-tailwind-admin-template/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/templates/free/spike/spike-tailwind-css-admin-wpn.webp" alt="spike-tailwind-admin-template" style="max-width:140px;">
             </a>
          </td>
          <td>
-            <a href="https://www.wrappixel.com/templates/spike-bootstrap-admin-dashboard/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-bootstrap-wpn.jpg" alt="spike-bootstrap-admin-template" style="max-width:140px;">
+            <a href="https://wrappixel.com/templates/spike-bootstrap-admin-dashboard/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/templates/pro/spike/spike-bootstrap-wpn.webp" alt="spike-bootstrap-admin-template" style="max-width:140px;">
             </a>
          </td>
       </tr>
@@ -202,18 +195,18 @@ The **Free Version** of the **Spike Vue Js Admin Dashboard** provides a solid se
    <tbody>
       <tr>
          <td>
-            <a href="https://www.wrappixel.com/templates/spike-nextjs-admin-template/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2025/02/Spike_Paid_version_794X456.jpg" alt="spike-nextjs-admin-template" style="max-width:150px;">
+            <a href="https://wrappixel.com/templates/spike-nextjs-admin-template/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/templates/pro/spike/Spike_Paid_version_nextjs.webp" alt="spike-nextjs-admin-template" style="max-width:150px;">
             </a>
          </td> 
          <td>
-            <a href="https://www.wrappixel.com/templates/spike-angular-admin-template/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-angular-admin-wpn.jpg" alt="spike-angular-admin-template" style="max-width:140px;">
+            <a href="https://wrappixel.com/templates/spike-angular-admin-template/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/templates/pro/spike/spike-angular-admin-wpn.webp" alt="spike-angular-admin-template" style="max-width:140px;">
             </a>
          </td>
          <td>
-            <a href="https://www.wrappixel.com/templates/spike-nuxtjs-admin-template/?ref=376" width="150px">
-               <img src="https://www.wrappixel.com/wp-content/uploads/edd/2024/05/spike-nuxtjs-admin-wpn.jpg" alt="spike-nuxt-admin-template" style="max-width:150px;">
+            <a href="https://wrappixel.com/templates/spike-nuxtjs-admin-template/?ref=376" width="150px">
+               <img src="https://images.wrappixel.com/templates/pro/spike/spike-nuxtjs-admin.webp" alt="spike-nuxt-admin-template" style="max-width:150px;">
             </a>
          </td>
       </tr>
@@ -222,7 +215,7 @@ The **Free Version** of the **Spike Vue Js Admin Dashboard** provides a solid se
 
 ---
 
-##  🤝  Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community to help improve the **Spike Free Vue Js Admin Template**. Whether it’s fixing bugs, adding new features, improving documentation, or sharing ideas — your input is appreciated!
 
@@ -235,37 +228,44 @@ Follow these simple steps to start contributing:
 
 2. **Clone Your Fork**  
    Use the command below to clone your forked repository:
+
    ```bash
    git clone https://github.com/wrappixel/spike-vue-free.git
 
+   ```
+
 3. **Create a New Branch**  
    Create a new branch to work on your feature or fix. This keeps your changes separate from the main branch:
+
    ```bash
    git checkout -b feature/your-feature-name
+
+   ```
 
 4. **Commit and Push Changes**  
    After making your changes, commit them with a meaningful message and push your branch to your fork:
    ```bash
    git commit -am "Add: Description of changes made"
    git push origin feature/your-feature-name
-
+   ```
 
 ---
 
 ## 🧭 Useful Links
-- <p><a href="https://www.wrappixel.com/templates/category/admin-dashboard-templates/?ref=376">Admin Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/bootstrap-templates/?ref=376">Bootstrap Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/angular-templates/?ref=376">Angular Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/react-templates/?ref=376">React Template</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/framer-templates/?ref=376">Framer Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/mui-templates/?ref=376">Material UI Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/vuetify-templates/?ref=376">Vuetify Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nextjs-templates/?ref=376">NextJs Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/nuxt-templates/?ref=376">Nuxt Templates</a> from Wrappixel</p>
-- <p><a href="https://www.wrappixel.com/templates/category/tailwind-dashboard/?ref=376">Tailwind Templates</a> from Wrappixel</p>
+
+- <p><a href="https://wrappixel.com/templates/category/admin-dashboard-templates/?ref=376">Admin Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/bootstrap-templates/?ref=376">Bootstrap Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/angular-templates/?ref=376">Angular Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/react-templates/?ref=376">React Template</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/framer-templates/?ref=376">Framer Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/mui-templates/?ref=376">Material UI Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/vuetify-templates/?ref=376">Vuetify Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/nextjs-templates/?ref=376">NextJs Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/nuxt-templates/?ref=376">Nuxt Templates</a> from Wrappixel</p>
+- <p><a href="https://wrappixel.com/templates/category/tailwind-dashboard/?ref=376">Tailwind Templates</a> from Wrappixel</p>
 
 ---
 
 ## 🌐 We are social
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrappixel)  [![twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/wrappixel)  [![facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/wrappixel)  [![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/wrappixel)  [![youtube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@wrappixel)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wrappixel)
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wrappixel) [![twitter](https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419)](https://twitter.com/wrappixel) [![facebook](https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff)](https://www.facebook.com/wrappixel) [![instagram](https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369)](https://www.instagram.com/wrappixel) [![youtube](https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000)](https://www.youtube.com/@wrappixel) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wrappixel)
